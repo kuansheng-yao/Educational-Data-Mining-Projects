@@ -10,5 +10,5 @@
 
 ## Lab 2 - A standard LLM application: embedding with vector store
 
-* [Code] (https://colab.research.google.com/drive/1KSd9-lBsECfH1hNIwD38dtGjuV8XaIRn)
+* [Code] (https://colab.research.google.com/github/google/generative-ai-docs/blob/main/examples/gemini/python/vectordb_with_chroma/vectordb_with_chroma.ipynb#scrollTo=kQ9PHUL_l-hf)
   
