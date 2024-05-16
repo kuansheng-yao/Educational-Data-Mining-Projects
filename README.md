@@ -14,5 +14,5 @@
 
 ## HW3: Lab 3 - Data preparation for Fine-Tuning LLMs
 
-* [Code] (https://colab.research.google.com/drive/1EMjZrK0Je2n98g3rljB9o9Boj9BbJ_Xi#scrollTo=sefgPRRBOHsm)
+* [Code] (https://colab.research.google.com/drive/1EMjZrK0Je2n98g3rljB9o9Boj9BbJ_Xi#scrollTo=dgFubx6KcTi6)
   
